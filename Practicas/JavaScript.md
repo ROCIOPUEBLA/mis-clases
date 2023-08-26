@@ -1,15 +1,6 @@
-# Tecnología de la Programación
+# Prácticas sobre _JavaScript_
 
-- [Parcial 1](#parcial-1)
-- [Parcial 2](#parcial-2)
-- [Parcial 3](#parcial-3)
-- [Proyecto Final](#proyecto-final)
-
----
-
-## Parcial 1
-
-### Práctica 1
+## Práctica 1
 
 Con lo aprendido sobre los Tipos de Datos:
 
@@ -25,7 +16,7 @@ En la tarea sólo agrega el enlace de tu proyecto en _CodeSandbox_.
 
 ---
 
-### Práctica 2
+## Práctica 2
 
 Con lo aprendido en clase vas a formar la ficha bibliográfica de tus 3 libros favoritos.
 
@@ -37,7 +28,7 @@ En la tarea sólo agrega el enlace de tu proyecto en _CodeSandbox_.
 
 ---
 
-### Práctica 3
+## Práctica 3
 
 Convierte el código de la **práctica 2** en una función constructora prototípica.
 
@@ -45,7 +36,7 @@ En la tarea sólo agrega el enlace de tu proyecto en _CodeSandbox_.
 
 ---
 
-### Práctica 4
+## Práctica 4
 
 Aplica Progrmación Orientada a Objetos, Herencia y Polimorfismo con Clases con el siguiente planteamiento:
 
@@ -57,7 +48,7 @@ En la tarea sólo agrega el enlace de tu proyecto en _CodeSandbox_.
 
 ---
 
-### Práctica 5
+## Práctica 5
 
 Con lo aprendido sobre condicionales, manda a imprimir en la consola del navegador los siguientes mensajes, dependiendo la hora del día:
 
@@ -72,7 +63,7 @@ En la tarea sólo agrega el enlace de tu proyecto en _CodeSandbox_.
 
 ---
 
-### Práctica 6
+## Práctica 6
 
 Con lo aprendido sobre condicionales, usa un _switch_ para mandar a imprimir en la consola del navegador el nombre del mes en el que estamos y una festividad alusiva al mes.
 
@@ -80,7 +71,7 @@ En la tarea sólo agrega el enlace de tu proyecto en _CodeSandbox_.
 
 ---
 
-### Práctica 7
+## Práctica 7
 
 Con lo aprendido sobre condicionales, operadores, el objeto _Date_ y los temporizadores, crea una función que imprima en la consola del navegador un reloj digital que muestre horas, minutos, segundos y este en formato am/pm.
 
@@ -94,7 +85,7 @@ En la tarea sólo agrega el enlace de tu proyecto en _CodeSandbox_.
 
 ---
 
-### Práctica 8
+## Práctica 8
 
 Con lo aprendido sobre ciclos, crea una función para obtener el factorial de un número.
 
@@ -119,7 +110,7 @@ En la tarea sólo agrega el enlace de tu proyecto en _CodeSandbox_.
 
 ---
 
-### Práctica 9
+## Práctica 9
 
 Con lo aprendido sobre ciclos, crea una función para determinar si un número dado es **Primo**.
 
@@ -139,9 +130,7 @@ En la tarea sólo agrega el enlace de tu proyecto en _CodeSandbox_.
 
 ---
 
-## Parcial 2
-
-### Práctica 1
+## Práctica 10
 
 Con lo aprendido sobre constantes, tipos de funciones, arreglos y validaciones, crea una función que dado un arreglo de números devuelva un objeto con 2 arreglos en el primero almacena los números pares y en el segundo los impares, la salida de tu consola tendría que verse así:
 
@@ -168,7 +157,7 @@ En la tarea sólo agrega el enlace de tu proyecto en _CodeSandbox_.
 
 ---
 
-### Práctica 2
+## Práctica 11
 
 Con lo aprendido sobre constantes, tipos de funciones, arreglos y validaciones, crea una función que dado un arreglo de números devuelva un objeto con tres arreglos, el primero tendrá los numeros en el orden que fueron pasados a la función, el segundo tendrá los números ordenados en forma ascendente y el último de forma descendiente, la salida de tu consola tendría que verse así:
 
@@ -196,7 +185,7 @@ En la tarea sólo agrega el enlace de tu proyecto en _CodeSandbox_.
 
 ---
 
-### Práctica 3
+## Práctica 12
 
 Con lo aprendido sobre los Módulos:
 
@@ -215,7 +204,7 @@ En la tarea sólo agrega el enlace de tu proyecto en _CodeSandbox_.
 
 ---
 
-### Práctica 4
+## Práctica 13
 
 Con lo aprendido sobre la introducción al _DOM_, haz un documento _HTML_ dinámico, con las siguientes características:
 
@@ -231,7 +220,7 @@ En la tarea sólo agrega el enlace de tu proyecto en _CodeSandbox_.
 
 ---
 
-### Práctica 5
+## Práctica 14
 
 Con lo aprendido sobre la manipulación del _DOM_, haz lo siguiente:
 
@@ -248,11 +237,11 @@ En la tarea sólo agrega el enlace de tu proyecto en _CodeSandbox_.
 
 ---
 
-### Práctica 6
+## Práctica 15
 
 Con lo aprendido sobre los eventos, haz lo siguiente:
 
-1. Trabajarás con el documento _HTML_ de la práctica 4 y 5.
+1. Trabajarás con el documento _HTML_ de la práctica 13 y 14.
 1. Asigna 2 eventos que modifiquen algo en la _UI_ de tu documento.
 1. Aplica 1 evento a varios elementos _HTML_ con la técnica de la delegación de eventos.
 
@@ -260,9 +249,7 @@ En la tarea sólo agrega el enlace de tu proyecto en _CodeSandbox_.
 
 ---
 
-## Parcial 3
-
-### Práctica 1
+## Práctica 16
 
 Con lo visto en clase y tomando como referencia los ejercicios hechos con el profesor.
 
@@ -281,7 +268,7 @@ En la tarea sólo agrega el enlace de tu proyecto en _CodeSandbox_.
 
 ---
 
-### Práctica 2
+## Práctica 17
 
 Con lo visto en clase y tomando como referencia los ejercicios hechos con el profesor.
 
@@ -298,7 +285,7 @@ En la tarea sólo agrega el enlace de tu proyecto en _CodeSandbox_.
 
 ---
 
-### Práctica 3
+## Práctica 18
 
 Con lo visto en clase y tomando como referencia los ejercicios hechos con el profesor.
 
@@ -321,7 +308,7 @@ En la tarea sólo agrega el enlace de tu proyecto en _CodeSandbox_.
 
 ---
 
-### Práctica 4
+## Práctica 19
 
 Con lo visto en clase y tomando como referencia los ejercicios hechos con el profesor.
 
@@ -343,7 +330,7 @@ En la tarea sólo agrega el enlace de tu proyecto en _CodeSandbox_.
 
 ---
 
-### Práctica 5
+## Práctica 20
 
 Con lo visto en clase y tomando como referencia los ejercicios hechos con el profesor.
 
@@ -364,7 +351,7 @@ En la tarea sólo agrega el enlace de tu proyecto en _CodeSandbox_.
 
 ---
 
-### Práctica 6
+## Práctica 21
 
 Con lo visto en clase y tomando como referencia los ejercicios hechos con el profesor.
 
@@ -378,11 +365,16 @@ En la tarea sólo agrega el enlace de tu proyecto en _CodeSandbox_.
 
 ---
 
-### Práctica 7
+## Práctica 22
 
 Con lo visto en clase y tomando como referencia los ejercicios hechos con el profesor.
 
-Elige alguna _API_ de este [repositorio](https://github.com/public-apis/public-apis) que no se haya visto en clase e interactua con ella.
+Elige alguna _API_ de alguno de estos sitios:
+
+- [https://publicapi.dev/](https://publicapi.dev/)
+- [https://github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)
+
+Que no se haya visto en clase e interactua con ella.
 
 Crea un documento _HTML_, donde puedas cargar dinámicamente mediante _JavaScript_ y _AJAX_, la información de la _API_.
 
@@ -411,7 +403,9 @@ La aplicación _web_ deberá contar con las siguientes características:
 - La aplicación deberá tener 4 funcionalidades de tipo _DOM_, cada funcionalidad deberá justificarse a nivel de _UI_ e interactividad.
 - Para la _UI_ se puede usar _HTML_ y _CSS_ plano o algún _Framework Frontend_.
 - La aplicación deberá tener 2 funcionalidades de tipo _APIs_, cada funcionalidad deberá justificarse a nivel de _UI_ e interactividad.
-- Para las funcionalidades de tipo _APIs_ puedes elegir algun servicio de este [repositorio](https://github.com/public-apis/public-apis).
+- Para las funcionalidades de tipo _APIs_ puedes elegir algun servicio de estos sitios:
+  - [https://publicapi.dev/](https://publicapi.dev/)
+  - [https://github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)
 - La aplicación deberá contar con sistema de autenticación, puedes elegir cualquiera de los métodos de acceso que te ofrece _Firebase_.
 - La aplicación deberá contar con un sistema _CRUD_ de base de datos en _Firebase_, dicho _CRUD_ deberá ser privado, es decir, para acceder se deberá estar logueado en la aplicación.
 - Los datos que modifiques en el _CRUD_ privado, deberán modificar alguna sección de la parte pública de la aplicación.

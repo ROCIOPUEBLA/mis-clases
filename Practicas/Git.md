@@ -1,15 +1,6 @@
-# Sistemas Operativos y Redes
+# Prácticas sobre _Git_
 
-- [Parcial 1](#parcial-1)
-- [Parcial 2](#parcial-2)
-- [Parcial 3](#parcial-3)
-- [Proyecto Final](#proyecto-final)
-
----
-
-## Parcial 1
-
-### Práctica 1
+## Práctica 1
 
 El estudiante redactará un archivo _markdown_ con la siguiente información personal:
 
@@ -23,7 +14,7 @@ Cuando acabes sube tu archivo _markdown_.
 
 ---
 
-### Práctica 2
+## Práctica 2
 
 El estudiante redactará un archivo en formato _markdown_ con un resumen de los comandos de terminal vistos en clase.
 
@@ -37,7 +28,7 @@ Cuando acabes sube tu archivo _markdown_.
 
 Los comandos y cómodines vistos en clase fueron:
 
-#### Comandos:
+### Comandos:
 
 - pwd
 - whoami
@@ -56,7 +47,7 @@ Los comandos y cómodines vistos en clase fueron:
 - find
 - code
 
-#### Comodines:
+### Comodines:
 
 - **~**
 - **/**
@@ -67,7 +58,7 @@ Los comandos y cómodines vistos en clase fueron:
 
 ---
 
-### Práctica 3
+## Práctica 3
 
 El estudiante creará una carpeta y agregará los archivos _markdown_ que hizo en las prácticas 1 y 2, con los siguientes nombres:
 
@@ -88,7 +79,7 @@ En la tarea sólo agrega el enlace de tu repositorio en _GitHub_.
 
 ---
 
-### Práctica 4
+## Práctica 4
 
 Para reforzar lo aprendido sobre el flujo de _Git_ y _GitHub_, haz lo siguiente:
 
@@ -113,7 +104,7 @@ En la tarea sólo agrega el enlace de tu repositorio en _GitHub_.
 
 ---
 
-### Práctica 5
+## Práctica 5
 
 1. Abre la carpeta de la **Práctica 3**.
 1. Edita el archivo _**README.md**_ y agrega un enlace que apunte al repositorio de la práctica 4.
@@ -125,7 +116,7 @@ En la tarea sólo agrega el enlace de tu repositorio en _GitHub_.
 
 ---
 
-### Práctica 6
+## Práctica 6
 
 1. Abre la carpeta de la **Práctica 5**.
 1. Crea el archivo _**.gitignore**_ y agrégale contenido para que no se puedan subir archivos ejecutables.
@@ -137,7 +128,7 @@ En la tarea sólo agrega el enlace de tu repositorio en _GitHub_.
 
 ---
 
-### Práctica 7
+## Práctica 7
 
 1. Abre tu navegador _web_ y ve al repositorio remoto de la **Práctica 6**.
 1. Desde la interfaz de _GitHub_ crea el archivo _**license.txt**_.
@@ -149,20 +140,11 @@ En la tarea sólo agrega el enlace de tu repositorio en _GitHub_.
 
 ---
 
-### Práctica 8
+## Práctica 8
 
 1. Abre la carpeta de la **Práctica 7**.
 1. Crea un archivo que se llame _**practica-8.md**_.
 1. En dicho archivo agrega tu nombre y contesta las siguientes preguntas **con tus propias palabras**, se honesto y breve, no quiero respuestas extensas, ni copiadas de _internet_, quiero que me respondas desde lo que has entendido en las clases que llevamos:
-   - ¿Que es un Sistema Operativo?
-   - ¿Que es _Software_?
-   - ¿Que es _Hardware_?
-   - ¿Qué es una Red de Cómputo?
-   - ¿Qué es el modelo _OSI_?
-   - ¿Qué es una topología de red?
-   - Menciona 3 características de la _web 1.0_.
-   - Menciona 3 características de la _web 2.0_.
-   - Menciona 3 características de la _web 3.0_.
    - ¿Qué es _Markdown_?
    - ¿Para que sirve _Markdown_?
    - ¿Qué es la Terminal de Comandos?
@@ -176,15 +158,11 @@ En la tarea sólo agrega el enlace de tu repositorio en _GitHub_.
 1. Crea un _commit_ que tenga el mensaje "_Agregando enlace y contenido de la Práctica 8_".
 1. Sube el cambio del repositorio local al remoto.
 
-Esta práctica **vale por 3**.
-
 En la tarea sólo agrega el enlace de tu repositorio en _GitHub_.
 
 ---
 
-## Parcial 2
-
-### Práctica 1
+## Práctica 9
 
 Para reforzar lo aprendido sobre las ramas y fusiones en _Git_ y _GitHub_, haz lo siguiente:
 
@@ -211,7 +189,7 @@ En la tarea sólo agrega el enlace de tu repositorio de entregas en _GitHub_.
 
 ---
 
-### Práctica 2
+## Práctica 10
 
 Para reforzar lo aprendido sobre los cambios, el historial y las etiquetas en _Git_ y _GitHub_, haz lo siguiente:
 
@@ -230,11 +208,11 @@ En la tarea sólo agrega el enlace de tu repositorio de entregas en _GitHub_.
 
 ---
 
-### Práctica 3
+## Práctica 11
 
 Para reforzar lo aprendido sobre _Git_ y _GitHub_, haz lo siguiente:
 
-1. Abre la carpeta de la repositorio de tus **Entregas**.
+1. Abre la carpeta del repositorio de tus **Entregas**.
 1. Abre el archivo _**README.md**_ y agrega una nueva sección de contenido donde con tus propias palabras expliques:
    - ¿Cómo se inicializa un repositorio en _Git_?
    - ¿Cómo creas un repositorio en _GitHub_?
@@ -249,11 +227,11 @@ En la tarea sólo agrega el enlace de tu repositorio de entregas en _GitHub_.
 
 ---
 
-### Práctica 4
+## Práctica 12
 
 Para reforzar lo aprendido sobre remotos y colaboración mediante _Pull Request_ en _Git_ y _GitHub_, haz lo siguiente:
 
-1. Crea un _**Fork**_ en tu cuenta de _GitHub_ de [este repositorio](https://github.com/jonmircha/amerike-so-2022-2).
+1. Crea un _**Fork**_ en tu cuenta de _GitHub_ de [este repositorio](https://github.com/jonmircha/nombre-repo).
 1. Clona en la computadora donde vayas a trabajar una copia del repositorio que acabas de _**forkear**_ en tu cuenta de _GitHub_.
 1. Cambia los _**remotes**_ como vimos en clase, para que puedas hacer un _**Pull Request**_.
 1. Una vez que tengas descargada la copia del repositorio y hayas modificado los _**remotes**_, crea una nueva rama que lleve tu nombre para que en ella hagas tu colaboración.
@@ -284,11 +262,11 @@ En la tarea sólo agrega el enlace de tu repositorio _**forkeado**_ en _GitHub_.
 
 ---
 
-### Práctica 5
+## Práctica 13
 
 Para reforzar lo aprendido sobre remotos y colaboración mediante _Pull Request_ en _Git_ y _GitHub_, haz lo siguiente:
 
-1. Trabajarás en el mismo repositorio de la práctica 4.
+1. Trabajarás en el mismo repositorio de la práctica anterior.
 1. Crea una nueva rama que lleve tu nombre para que en ella hagas tu colaboración.
 1. En la carpeta **mds** crearás un archivo _markdown_ que lleve tu nombre y apellido con el siguiente formato: **"nombre-apellido.md"**, por ejemplo: **"jonathan-mircha.md"**.
 1. Abre tu archivo _markdown_ y en él agrega tu información personal con el siguiente formato:
@@ -317,9 +295,9 @@ En la tarea sólo agrega el enlace de tu repositorio _**forkeado**_ en _GitHub_.
 
 ---
 
-### Práctica 6
+## Práctica 14
 
-Con lo visto en clase sobre _Node.js_ y [_Docusaurus_](https://docusaurus.io/) crea una carpeta donde crees un micrositio con la siguientes características:
+Con lo visto en clase sobre _Node.js_ y [_11ty_](https://www.11ty.dev/) crea una carpeta donde crees un micrositio con la siguientes características:
 
 1. La Página Principal (_README.md_) deberá contener tu información personal, la que has usado en las prácticas anteriores.
 1. Deberás tener una carpeta que se llame **series** y dentro de ella deberás tener 3 archivos _markdown_ uno por cada una de tus series favoritas, dentro de cada archivo deberás incluir: un encabezado de nivel 1 con el nombre de la serie, una foto o poster alusivo a la misma y una breve sinópsis.
@@ -332,23 +310,21 @@ Con lo visto en clase sobre _Node.js_ y [_Docusaurus_](https://docusaurus.io/) c
 1. Crea un repositorio en tu cuenta de _GitHub_ y vinculalo a la carpeta de esta práctica.
 1. Sube los cambios de tu carpeta local a _GitHub_.
 
-Esta práctica **vale por 2**.
-
 En la tarea sólo agrega el enlace de tu repositorio en _GitHub_.
 
 ---
 
-### Práctica 7
+## Práctica 15
 
-Con la carpeta y el repositorio de la práctica 6, realiza el despliegue de tu micrositio en formato _HTML_ en la rama _**gh-pages**_ de _GitHub Pages_.
+Con la carpeta y el repositorio de la práctica anterior, realiza el despliegue de tu micrositio en formato _HTML_ en la rama _**gh-pages**_ de _GitHub Pages_.
 
 En la tarea agrega el enlace de tu repositorio en _GitHub_ y del sitio desplegado en _GitHub Pages_.
 
 ---
 
-### Práctica 8
+## Práctica 16
 
-Los estudiantes en equipo deberán entregar un micrositio hecho en [_Docusaurus_](https://docusaurus.io/) con las siguientes características:
+Los estudiantes en equipo deberán entregar un micrositio hecho en [_11ty_](https://www.11ty.dev/) con las siguientes características:
 
 1. La Página Principal (_README.md_) deberá ser una especie de carátula de información con la siguiente información:
 
@@ -360,8 +336,7 @@ Los estudiantes en equipo deberán entregar un micrositio hecho en [_Docusaurus_
    - Nombre del profesor.
    - Nombre de todos los estudiantes.
 
-1. Deberá haber una carpeta con el nombre de cada estudiante y dentro de ella 4 documentos _markdown_: el de la serie, película, libro y videojuego favoritos de cada estudiante, para esto pueden usar los documentos hechos en la práctica 6.
-1. Recuerden que para que se forme correctamente el menú del micrositio deben crear una lista de enlaces de los archivos existentes en el archivo **docs/README.md**.
+1. Deberá haber una carpeta con el nombre de cada estudiante y dentro de ella 4 documentos _markdown_: el de la serie, película, libro y videojuego favoritos de cada estudiante, para esto pueden usar los documentos hechos en la práctica 14.
 1. Cuando el sitio este terminado, desplegarlo en la rama _**gh-pages**_ de _GitHub Pages_.
 1. Cada estudiante deberá subir sus propios cambios, se revisará el historial de _git_ para verificar esta parte.
 
@@ -369,171 +344,6 @@ Para trabajar en equipo los estudiantes pueden decidir trabajar, mediante _Pull 
 
 Cómo la práctica es en equipo, sólo se entrega un repositorio por todo el grupo.
 
-Esta práctica **vale por 2**.
-
 En la tarea se agrega el enlace del repositorio en _GitHub_ y del sitio desplegado en _GitHub Pages_.
-
----
-
-## Parcial 3
-
-### Práctica 1
-
-Crea un repositorio nuevo para tus entregas futuras sobre el tema de las Bases de Datos.
-
-En el archivo _README.md_ de tu repositorio, pon tus datos personales que ya has colocado anteriormente en previas prácticas:
-
-- Tu nombre.
-- Tu perfil de _GitHub_.
-- Tu correo.
-- Tu foto.
-
-Debajo de esta información en tu _README.md_ deberás ir colocando los enlaces correspondientes de las entregas de prácticas posteriores.
-
-En la tarea sólo agrega el enlace del repositorio en _GitHub_.
-
----
-
-### Práctica 2
-
-Crea un archivo _markdown_ en el repositorio de entregas que hiciste en la práctica 1 y haz lo siguiente:
-
-Crea un listado de las entidades y sus atributos como vimos en clase, sobre algún pasatiempo o afición que colecciones y del cuál puedas generar una base de datos.
-
-Toma como referencia el documento _**"Entidades y Atributos"**_ que hizo el profesor en clase.
-
-Cuando acabes, actualiza el _README.md_ del repositorio y agrega un enlace que apunte al documento de esta entrega.
-
-En la tarea sólo agrega el enlace del repositorio en _GitHub_.
-
----
-
-### Práctica 3
-
-Con el archivo _markdown_ de la práctica anterior, realiza los cambios pertinentes, en base a la retroalimentación dada en clase.
-
-Recuerda que tu archivo de Entidades y Atributos deberá contener lo siguiente:
-
-- Tu modelo debe tener mínimo 4 entidades.
-- Los nombres de los atributos deben escribirse con el formato del guión bajo, por ejemplo si tienes un campo que se llama Cliente Id, deberás escribirlo como **cliente_id**.
-- Define las llaves primarias (**PK**) y las llaves foráneas (**FK**) de tus entidades.
-
-Una vez que hayas hecho los cambios sobre tu documento _markdown_ de Entidades y Atributos, crea en un archivo de _Excel_ o _Google Sheets_ y haz lo siguiente:
-
-- Crea una hoja de cálculo por cada entidad de tu modelo.
-- Cóloca los atributos de las entidades en la fila 1 de la hoja.
-- Llena 5 registros de datos de cada hoja de cálculo.
-
-Cuando acabes, actualiza los cambios de tu repositorio y en el _README.md_ agrega un enlace que apunte al documento de tus hojas de cálculo.
-
-En la tarea sólo agrega el enlace del repositorio en _GitHub_.
-
----
-
-### Práctica 4
-
-Con el archivo _markdown_ de la práctica anterior, realiza los cambios pertinentes, en base a la retroalimentación dada en clase.
-
-Además crea tus entidades de tipo catálogo y pivote. Tu diseño de base de datos, deberá contener al menos un cátalogo y un pivote.
-
-Agrega al archivo de _Excel_ o _Google Sheets_ una hoja de cálculo por cada catálogo que tengas e inserta los registros correspondientes a cada catálogo.
-
-Cuando acabes, actualiza los cambios de tu repositorio en el _markdown_ y el documento de tus hojas de cálculo.
-
-En la tarea sólo agrega el enlace del repositorio en _GitHub_.
-
----
-
-### Práctica 5
-
-Con los archivos _markdown_ y hojas de cálculo de la práctica anterior, realiza los cambios pertinentes, en base a la retroalimentación dada en clase.
-
-Agrega al documento _markdown_ las relaciones identificadas en tu modelo de datos identificando el tipo de relación existente.
-
-Cuando acabes, actualiza los cambios de tu repositorio en el _markdown_ y el documento de tus hojas de cálculo.
-
-En la tarea sólo agrega el enlace del repositorio en _GitHub_.
-
----
-
-### Práctica 6
-
-Con los archivos _markdown_ y hojas de cálculo de la práctica anterior, realiza los cambios pertinentes, en base a la retroalimentación dada en clase.
-
-Crea en la plataforma de [_Diagrams.net_](https://www.diagrams.net/) el modelo relacional de la base de datos de tu proyecto.
-
-Cuando acabes expórtalo como una imagen y agregalo al archivo _markdown_ que contiene toda la información de tu proyecto, actualiza los cambios a tu repositorio.
-
-En la tarea sólo agrega el enlace del repositorio en _GitHub_.
-
----
-
-### Práctica 7
-
-Con los archivos de la práctica anterior, realiza los cambios pertinentes, en base a la retroalimentación dada en clase.
-
-En el diagrama modelo relacional de la base de datos que creaste en la práctica anterior, agrégale los **tipos de dato** a los atributos de tus entidades, Además identifica los atributos que podrían ser **únicos**.
-
-Cuando acabes expórtalo como una imagen y agregalo al archivo _markdown_ que contiene toda la información de tu proyecto, actualiza los cambios a tu repositorio.
-
-En la tarea sólo agrega el enlace del repositorio en _GitHub_.
-
----
-
-### Práctica 8
-
-Con los archivos de la práctica anterior, realiza los cambios pertinentes, en base a la retroalimentación dada en clase.
-
-En el archivo _markdown_ donde definiste tus entidades y atributos, agrega un listado con las reglas de negocio de cada una de las entidades que forman parte de tu sistema.
-
-Cuando acabes, actualiza los cambios a tu repositorio.
-
-En la tarea sólo agrega el enlace del repositorio en _GitHub_.
-
----
-
-## Proyecto Final
-
-Con los conocimientos adquiridos en la materia el estudiante unificará la lógica y la sintaxis de código necesarias para modelar una base de datos en lenguaje _SQL_.
-
-Crea un repositorio nuevo para tu proyecto final.
-
-En el archivo _README.md_ de tu repositorio, pon tus datos personales que ya has colocado anteriormente en previas prácticas:
-
-- Tu nombre.
-- Tu perfil de _GitHub_.
-- Tu correo.
-- Tu foto.
-
-Debajo de esta información en tu _README.md_ deberás incluir lo siguiente:
-
-- La imagen (_jpg_ o _png_) de tu modelo relacional de la base de datos de tu proyecto.
-- Un enlace hacia el archivo _**schema.sql**_ que deberá estar incluido en tu repositorio. Este archivo contendrá el código _SQL_ de la definición del esquema de tu base de datos.
-- Un enlace hacia el archivo _**initial_data.sql**_ que deberá contener la carga inicial de datos de tus tablas.
-- Un enlace hacia el archivo _**queries.sql**_ que deberá contener 20 consultas _SQL_ a tu base de datos. Estas consultas deberán ser parte de las reglas de negocio que previamente has definido. Las consultas deberán estar repartidas de la siguiente forma:
-  - 5 consultas de tipo _INSERT_.
-  - 5 consultas de tipo _SELECT_.
-  - 5 consultas de tipo _UPDATE_.
-  - 5 consultas de tipo _DELETE_.
-
-### Evaluación
-
-- **10%** Modelo Relacional de la Base de Datos.
-- **30%** Esquema de la Base de Datos.
-- **20%** Carga de datos en la Base de Datos.
-- **40%** Consultas _SQL_ de la Base de Datos.
-
-Considera lo siguiente:
-
-- El esquema de la base de datos deberá corresponder con lo propuesto en el modelo relacional, deberá coincidir en la estructura, nombre de tablas, campos, tipos de datos, relaciones, llaves primarias, foráneas, índices, únicos.
-- Las tablas que sean de tipo catálogo deberán incluir la carga completa de sus registros.
-- Las tablas que son de datos y pivotes, deberán tener al menos 10 registros con los que se puedan ejecutar las consultas a la base de datos.
-- Se evaluará la correcta ejecución de las sentencias _SQL_ definidas en el archivo de consultas.
-- Todo tu código _SQL_ deberá cumplir con las reglas gramaticales y semánticas en su escritura.
-- Deberás usar el formato _snake_case_ en la escritura de tu código _SQL_.
-
-En la tarea sólo agrega el enlace del repositorio en _GitHub_.
-
-### Fecha de Entrega: Martes 29 de Noviembre de 2022 a las 11am.
 
 ---
