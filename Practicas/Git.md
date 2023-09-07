@@ -220,7 +220,7 @@ En la tarea sólo agrega el enlace de tu repositorio de entregas en _GitHub_.
 
 ---
 
-## Práctica 12
+## Práctica 11
 
 Para reforzar lo aprendido sobre remotos y colaboración mediante _Pull Request_ en _Git_ y _GitHub_, haz lo siguiente:
 
@@ -255,7 +255,7 @@ En la tarea sólo agrega el enlace de tu repositorio _**forkeado**_ en _GitHub_.
 
 ---
 
-## Práctica 13
+## Práctica 12
 
 Para reforzar lo aprendido sobre remotos y colaboración mediante _Pull Request_ en _Git_ y _GitHub_, haz lo siguiente:
 
@@ -288,7 +288,7 @@ En la tarea sólo agrega el enlace de tu repositorio _**forkeado**_ en _GitHub_.
 
 ---
 
-## Práctica 14
+## Práctica 13 🤓 Aquí voy
 
 Con lo visto en clase sobre _Node.js_ y [_11ty_](https://www.11ty.dev/) crea una carpeta donde crees un micrositio con la siguientes características:
 
@@ -307,7 +307,7 @@ En la tarea sólo agrega el enlace de tu repositorio en _GitHub_.
 
 ---
 
-## Práctica 15
+## Práctica 14
 
 Con la carpeta y el repositorio de la práctica anterior, realiza el despliegue de tu micrositio en formato _HTML_ en la rama _**gh-pages**_ de _GitHub Pages_.
 
@@ -315,7 +315,7 @@ En la tarea agrega el enlace de tu repositorio en _GitHub_ y del sitio desplegad
 
 ---
 
-## Práctica 16
+## Práctica 15
 
 Los estudiantes en equipo deberán entregar un micrositio hecho en [_11ty_](https://www.11ty.dev/) con las siguientes características:
 
