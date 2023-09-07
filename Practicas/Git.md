@@ -123,14 +123,7 @@ En la tarea sólo agrega el enlace de tu repositorio en _GitHub_.
 1. Agrega el cambio al _stage_ de tu repositorio.
 1. Crea un _commit_ que tenga el mensaje "_Creando archivo .gitignore_".
 1. Sube el cambio del repositorio local al remoto.
-
-En la tarea sólo agrega el enlace de tu repositorio en _GitHub_.
-
----
-
-## Práctica 7
-
-1. Abre tu navegador _web_ y ve al repositorio remoto de la **Práctica 6**.
+1. Abre tu navegador _web_ y ve al repositorio remoto en _GitHub_.
 1. Desde la interfaz de _GitHub_ crea el archivo _**license.txt**_.
 1. Elige una de las licencias que te ofrece _GitHub_.
 1. Desde la interfaz de _GitHub_ crea un _commit_ que tenga el mensaje "_Agregando licencia al repositorio_".
@@ -140,10 +133,10 @@ En la tarea sólo agrega el enlace de tu repositorio en _GitHub_.
 
 ---
 
-## Práctica 8
+## Práctica 7
 
-1. Abre la carpeta de la **Práctica 7**.
-1. Crea un archivo que se llame _**practica-8.md**_.
+1. Abre la carpeta de la **Práctica 6**.
+1. Crea un archivo que se llame _**practica-7.md**_.
 1. En dicho archivo agrega tu nombre y contesta las siguientes preguntas **con tus propias palabras**, se honesto y breve, no quiero respuestas extensas, ni copiadas de _internet_, quiero que me respondas desde lo que has entendido en las clases que llevamos:
    - ¿Qué es _Markdown_?
    - ¿Para que sirve _Markdown_?
@@ -153,16 +146,16 @@ En la tarea sólo agrega el enlace de tu repositorio en _GitHub_.
    - ¿Para que sirve _Git_?
    - ¿Qué es _GitHub_?
    - ¿Para que sirve _GitHub_?
-1. Cuando termines de responder las preguntas, abre el archivo _**README.md**_ y agrega un enlace que apunte al archivo _**practica-8.md**_.
+1. Cuando termines de responder las preguntas, abre el archivo _**README.md**_ y agrega un enlace que apunte al archivo _**practica-7.md**_.
 1. Agrega el cambio al _stage_ de tu repositorio.
-1. Crea un _commit_ que tenga el mensaje "_Agregando enlace y contenido de la Práctica 8_".
+1. Crea un _commit_ que tenga el mensaje "_Agregando enlace y contenido de la Práctica 7_".
 1. Sube el cambio del repositorio local al remoto.
 
 En la tarea sólo agrega el enlace de tu repositorio en _GitHub_.
 
 ---
 
-## Práctica 9
+## Práctica 8
 
 Para reforzar lo aprendido sobre las ramas y fusiones en _Git_ y _GitHub_, haz lo siguiente:
 
@@ -182,14 +175,14 @@ Para reforzar lo aprendido sobre las ramas y fusiones en _Git_ y _GitHub_, haz l
 1. Cuando termines, abre la carpeta de la repositorio de **Entregas**.
 1. Edita el archivo _**README.md**_ y agrega un enlace que apunte al repositorio de esta práctica.
 1. Agrega el cambio al _stage_ de tu repositorio.
-1. Crea un _commit_ que tenga el mensaje "_Agregando enlace de la práctica 1 del parcial 2_".
+1. Crea un _commit_ que tenga el mensaje "_Agregando enlace de la práctica 8_".
 1. Sube el cambio del repositorio local al remoto.
 
 En la tarea sólo agrega el enlace de tu repositorio de entregas en _GitHub_.
 
 ---
 
-## Práctica 10
+## Práctica 9
 
 Para reforzar lo aprendido sobre los cambios, el historial y las etiquetas en _Git_ y _GitHub_, haz lo siguiente:
 
@@ -208,7 +201,7 @@ En la tarea sólo agrega el enlace de tu repositorio de entregas en _GitHub_.
 
 ---
 
-## Práctica 11
+## Práctica 10
 
 Para reforzar lo aprendido sobre _Git_ y _GitHub_, haz lo siguiente:
 

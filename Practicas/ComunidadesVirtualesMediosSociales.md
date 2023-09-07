@@ -38,3 +38,38 @@ Traigan los elementos de su identidad gráfica (logotipo, colores, tipografías)
 En este avance revisaremos el llenado del calendario editorial para el contenido del primer mes de publicación.
 
 ---
+
+## Entrega 1: Presentación de Proyecto
+
+Cada equipo deberá crear una carpeta en el canal General en la sección de Archivos, con el nombre de su Proyecto, dentro de dicha carpeta colocar:
+
+- El PDF de la presentación de su Comunidad y
+- El calendario editorial en formato Excel.
+
+Adicionalmente en esta tarea dejar los enlaces del perfil de cada red social en la que comenzarán a crear contenido.
+
+---
+
+## Entrega 2: Configuración y Publicación de Sitio Web
+
+Cada equipo deberá entregar la url del sitio web de su comunidad.
+
+En esta primera entrega, el sitio deberá contener lo siguiente:
+
+1. La interfaz web alusiva a la identidad gráfica de la comunidad previamente definida.
+1. Una página de inicio con la información más relevante de su comunidad, cómo su nombre, logotipo, objetivo, links a redes sociales, etc.
+1. Un primer artículo de blog de bienvenida a la comunidad.
+
+Es importante que sean visibles los enlaces hacia las redes sociales en las que estarán creando su contenido.
+
+Recuerden que al final del semestre el sitio deberá contar con un mínimo de 20 artículos de blog, estos mismos se irán solicitando gradualmente a lo largo del semestre.
+
+Plataformas gratuitas sugeridas para la creación de su sitio web:
+
+- [WordPress](https://wordpress.com/).
+- [Canva](https://www.canva.com/es_mx/sitios-web/).
+- [Google Sites](https://sites.google.com/).
+- [Wix](https://wix.com/).
+- Cualquier otra que los estudiantes propongan.
+
+---

@@ -6,6 +6,7 @@ Diferentes enlaces, conceptos y notas que uso en mis clases, estan ordenados de 
   - [_APIs_](#apis).
   - [_Crypto_](#crypto).
   - [Generadores _CSS_](#generadores-css).
+  - [Herramientas varias](#herramientas-varias).
   - [Hospedajes](#hospedajes).
   - [Iconos](#iconos).
   - [Imágenes](#imágenes).
@@ -13,7 +14,6 @@ Diferentes enlaces, conceptos y notas que uso en mis clases, estan ordenados de 
   - [Sitios Muestra](#sitios-muestra).
   - [Sitios Premiados](#sitios-premiados).
   - [Sitios Referencia](#sitios-referencia).
-  - [Varios](#varios).
   - [Videojuegos](#videojuegos).
   - [Videos](#videos).
 - [Higiene Digital](#higiene-digital).
@@ -43,7 +43,7 @@ Diferentes enlaces, conceptos y notas que uso en mis clases, estan ordenados de 
 
 ### _Crypto_
 
-- [_Cryptopía_](https://www.youtube.com/watch?v=P6vYyqHG54Y)
+- [Documental _Cryptopía_](https://www.youtube.com/watch?v=P6vYyqHG54Y)
 
 [🔼 Regresar](#notas)
 
@@ -55,6 +55,18 @@ Diferentes enlaces, conceptos y notas que uso en mis clases, estan ordenados de 
 - https://cssloaders.github.io/
 - https://bennettfeely.com/clippy/
 - https://www.joshwcomeau.com/shadow-palette/
+
+[🔼 Regresar](#notas)
+
+### Herramientas varias
+
+- https://uiverse.io/
+- https://github.com/git-school/visualizing-git
+- https://www.diagrams.net/
+- https://vanna.ai/
+- https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/
+- https://www.the-qrcode-generator.com/
+- https://tinywow.com/
 
 [🔼 Regresar](#notas)
 
@@ -75,8 +87,8 @@ Diferentes enlaces, conceptos y notas que uso en mis clases, estan ordenados de 
 
 ### Iconos
 
-- https://www.svgrepo.com/
 - https://boxicons.com/
+- https://www.svgrepo.com/
 - https://svgporn.com/
 - https://worldvectorlogo.com/es/
 
@@ -142,15 +154,7 @@ Diferentes enlaces, conceptos y notas que uso en mis clases, estan ordenados de 
 - https://roadmap.sh/
 - https://uxengineer.com/
 - https://briefs.video/
-
-[🔼 Regresar](#notas)
-
-### Varios
-
-- https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/
-- https://www.diagrams.net/
-- https://www.the-qrcode-generator.com/
-- https://tinywow.com/
+- https://datareportal.com/
 
 [🔼 Regresar](#notas)
 
