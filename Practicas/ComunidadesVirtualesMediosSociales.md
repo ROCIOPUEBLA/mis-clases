@@ -73,3 +73,32 @@ Plataformas gratuitas sugeridas para la creación de su sitio web:
 - Cualquier otra que los estudiantes propongan.
 
 ---
+
+## Entrega 3: Calendario Editorial
+
+Deberán entregar su calendario editorial con:
+
+1. La hoja del primer mes con los enlaces de las publicaciones hechas en las primeras 4 semanas.
+1. Una segunda hoja con la planeación del contenido del segundo mes (siguientes 4 semanas).
+
+Cumplir con el contenido del primer mes vale 30 puntos. La planeación del segundo mes vale 10 puntos.
+
+---
+
+## Entrega 4: Artículos de Blog
+
+Cada equipo deberá entregar la redacción de 5 artículos para el blog de su sitio, dichos artículos tendrán que estar relacionados con los contenidos que están publicando en sus redes sociales.
+
+Cada artículo deberá tener un mínimo de 400 palabras y deberá tener al menos 2 elementos multimedia (imágenes, audio, video, etc.) que complemente la redacción.
+
+En la tarea agreguen los enlaces de cada uno de sus artículos.
+
+---
+
+## Actividad 5: _BrainStorming_ Evento _Online - Offline_
+
+En equipo agreguen un documento o presentación con la lluvia de ideas que han generado para el evento _online - offline_ que organizarán para su comunidad a finales del semestre.
+
+Cada equipo tendrá de 5 a 10 minutos para exponer frente al grupo sus ideas y recibir retroalimentación por parte de los profesores.
+
+---

@@ -163,8 +163,9 @@ Con lo visto en clase elabora un documento de diseño de _Figma_ y recrea la int
 - 3 pantallas (_frames_).
 - 3 interacciones.
 - 3 componentes interactivos.
+- _Frame_ con tu biblioteca de componentes.
 
-**No diseñes a ciegas**, usa _Layout Grid_, _Auto Layout_, aplica los principios de _UI_ y la teoría del color, vistos en previas clases.
+**No diseñes a ciegas**, usa _Layout Grid_, _Auto Layout_, vistos en previas clases.
 
 Anexa la capturas de pantalla de la interfaz que recrearás para tenerla como referencia.
 

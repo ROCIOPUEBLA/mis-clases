@@ -231,6 +231,32 @@ En la tarea sólo agrega el enlace de tu repositorio de _GitHub_.
 
 ### Práctica 3
 
+Para poner en práctica lo aprendido sobre diseño de interfaces en _Bootstrap_, haz lo siguiente:
+
+Diseñarás tu _currículum_ como portafolio _web_.
+
+Tu sitio deberá tener:
+
+- Al menos 4 secciones de contenido identificables.
+- Ser responsivo (versión _mobile_ y _desktop_).
+- A parte de usar los componentes y utilidades de _Bootstrap_, deberás personalizar tu sitio para que se vea personalizado, por lo que deberás tener una hoja de estilos propia.
+
+Crea un repositorio en _GitHub_ para esta práctica, sube el código fuente a la rama _main_ y despliega tu proyecto en la rama _gh-pages_ para poder visualizarlo como un sitio _web_.
+
+En el _README.md_ de tu repositorio escribe:
+
+- Tu nombre.
+- Número de práctica.
+- Un enlace con la _url_ de tu sitio desplegado en _GitHub Pages_.
+
+Esta práctica **vale por 3**.
+
+En la tarea sólo agrega el enlace de tu repositorio de _GitHub_.
+
+---
+
+### Práctica 4
+
 ---
 
 ## Parcial 3
