@@ -298,7 +298,7 @@ Para reforzar lo aprendido sobre la creación del _GitHub Profile README_ y el d
 1. En esta práctica se evaluará la creatividad y el diseño de tu perfil.
 1. Una vez que hayas terminado tu _GitHub Profile_ en el _README.md_, ahora lo desplegarás en _GitHub Pages_.
 1. Crea una carpeta dentro de tu repositorio que se llame _**docs**_, dentro de dicha carpeta crea un documento _**index.html**_, y en el, pasa el contenido de tu _GitHub Profile_ a formato _HTML_.
-1. Una vez que termines sube tus cambios a la rama _main_ de tu repositorio, y configura los _**settings**_ para que la carpeta _docs_ se despliegue en el servicio de _GitHub Pages_.
+1. Una vez que termines sube tus cambios a la rama _main_, y configura la sección _**Pages**_ de los _**Settings**_ de tu repositorio para que la carpeta _docs_ se despliegue en el servicio de _GitHub Pages_.
 
 Aquí te dejo algunos _GitHub Profiles_ que puedes tomar de inspiración para el diseño y contenido del tuyo:
 
@@ -316,39 +316,40 @@ En la tarea agrega:
 
 ---
 
-## Práctica 14 🤓 Aquí voy
+## Práctica 14
 
-Con lo visto en clase sobre _Node.js_ y [_11ty_](https://www.11ty.dev/) crea una carpeta donde crees un micrositio con la siguientes características:
+Con lo visto en clase sobre [_Node.js_](https://nodejs.org/es), los [_SSGs_](https://jamstack.org/generators/) y [_11ty_](https://www.11ty.dev/) crearás un sitio estático con la siguientes características:
 
-1. La Página Principal (_README.md_) deberá contener tu información personal, la que has usado en las prácticas anteriores.
-1. Deberás tener una carpeta que se llame **series** y dentro de ella deberás tener 3 archivos _markdown_ uno por cada una de tus series favoritas, dentro de cada archivo deberás incluir: un encabezado de nivel 1 con el nombre de la serie, una foto o poster alusivo a la misma y una breve sinópsis.
-1. Deberás tener una carpeta que se llame **peliculas** y dentro de ella deberás tener 3 archivos _markdown_ uno por cada una de tus películas favoritas, dentro de cada archivo deberás incluir: un encabezado de nivel 1 con el nombre de la película, una foto o poster alusivo a la misma y una breve sinópsis.
-1. Deberás tener una carpeta que se llame **libros** y dentro de ella deberás tener 3 archivos _markdown_ uno por cada uno de tus libros favoritos, dentro de cada archivo deberás incluir: un encabezado de nivel 1 con el nombre del libro, una foto o poster alusivo al mismo y una breve sinópsis.
-1. Deberás tener una carpeta que se llame **videojuegos** y dentro de ella deberás tener 3 archivos _markdown_ uno por cada uno de tus videojuegos favoritos, dentro de cada archivo deberás incluir: un encabezado de nivel 1 con el nombre del videojuego, una foto o poster alusivo al mismo y una breve sinópsis.
-1. Recuerda que para que se forme correctamente el menú de tu micrositio debes crear una lista de enlaces de tus archivos existentes en el archivo **docs/README.md**.
-1. Cuando termines de editar todos los archivos _markdowns_, ejecuta el comando para que se generé el micrositio en formato _HTML_.
-1. Inicializa _Git_ en la carpeta de esta práctica.
-1. Crea un repositorio en tu cuenta de _GitHub_ y vinculalo a la carpeta de esta práctica.
-1. Sube los cambios de tu carpeta local a _GitHub_.
+1. El sitio estará desplegado en el servicio de _GitHub Pages_, por lo cual deberás crear un repositorio nuevo para esta práctica.
+1. Recuerda crear un archivo _**.gitignore**_ en la carpeta de tu repositorio e ignorar las dependencias de _Node.js_ para que no se suban al repositorio remoto.
+1. Crea un archivo _README.md_ y pon tus datos: tu nombre, número de práctica y el enlace del sitio desplegado.
+1. Crea la estructura de carpetas y archivos vistos en clase que requiere _11ty_ para funcionar.
+1. El contenido de tu sitio estático será el siguiente:
+   - Crearás un mini _blog_ personal con 3 diferentes categorías de contenido y dentro de cada una de tus categorías deberás crear 3 artículos de _blog_ con contenido.
+   - Cada artículo deberá tener lo siguiente:
+     - Título.
+     - Al menos 200 palabras de contenido.
+     - Al menos 1 o 2 elementos multimedia (imágenes, videos, etc).
+     - Un enlace que regrese a la página principal.
+   - La temática de las categorías del _blog_ es libre, puedes escribir de lo que quieras. Por ejemplo podrías tener una categoría de libros y como artículos la reseña de tus tres favoritos, cada reseña sería un artículo y así ya tendrías una categoría con sus 3 artículos solicitados y lo mismo podrías hacer con tus series, películas y/o videojuegos favoritos.
+   - Tu sitio deberá tener una página principal (_index.md_) con tu información personal, la que has usado en las prácticas anteriores (nombre, foto, descripción, etc). Además en ella deberás tener un menú de navegación para poder acceder a todos los artículos del sitio.
+   - Personaliza tu sitio web agregando un par de estilos _CSS_, por ejemplo caambia el color de fondo, de letra, usa una tipografía de [_Google Fonts_](https://fonts.google.com/) cambia el color a los enlaces, haz las imágenes responsivas, incluso podrías apoyarte en el uso de _frameworks_ como [_Bootstrap_](https://getbootstrap.com/).
+1. Cuando termines de editar todos los archivos _markdowns_, que deberían ser 10 (la página principal y los 9 artículos), ejecuta el comando para que se generé el sitio estático en formato _HTML_.
+1. Inicializa _Git_ en tu carpeta y vincula tu repositorio remoto.
+1. Configura el repositorio en _Github_ para desplegar el sitio en _GitHub Pages_.
+1. Sube los cambios de tu carpeta local a _GitHub_, para despliega tu sitio en _GitHub Pages_.
 
-En la tarea sólo agrega el enlace de tu repositorio en _GitHub_.
+Esta práctica **vale por 3**.
+
+En la tarea se agrega el enlace del repositorio en _GitHub_ y del sitio desplegado en _GitHub Pages_.
 
 ---
 
 ## Práctica 15
 
-Con la carpeta y el repositorio de la práctica anterior, realiza el despliegue de tu micrositio en formato _HTML_ en la rama _**gh-pages**_ de _GitHub Pages_.
+Los estudiantes en equipo deberán entregar un sitio estático hecho en [_11ty_](https://www.11ty.dev/) con las siguientes características:
 
-En la tarea agrega el enlace de tu repositorio en _GitHub_ y del sitio desplegado en _GitHub Pages_.
-
----
-
-## Práctica 16
-
-Los estudiantes en equipo deberán entregar un micrositio hecho en [_11ty_](https://www.11ty.dev/) con las siguientes características:
-
-1. La Página Principal (_README.md_) deberá ser una especie de carátula de información con la siguiente información:
-
+1. En el _README.md_ del repositorio deberá ser una especie de carátula de información con lo siguiente:
    - Nombre de la escuela.
    - Logo de la escuela.
    - Nombre de la carrera.
@@ -356,14 +357,17 @@ Los estudiantes en equipo deberán entregar un micrositio hecho en [_11ty_](http
    - Semestre.
    - Nombre del profesor.
    - Nombre de todos los estudiantes.
-
-1. Deberá haber una carpeta con el nombre de cada estudiante y dentro de ella 4 documentos _markdown_: el de la serie, película, libro y videojuego favoritos de cada estudiante, para esto pueden usar los documentos hechos en la práctica 14.
-1. Cuando el sitio este terminado, desplegarlo en la rama _**gh-pages**_ de _GitHub Pages_.
+1. Crea la estructura de carpetas y archivos vistos en clase que requiere _11ty_ para funcionar.
+1. Deberá haber una carpeta con el nombre de cada estudiante y dentro de ella 3 documentos _markdown_ de los que hizo en la práctica anterior.
+1. La página principal (_index.md_) deberá tener toda la información del _README.md_ más los enlaces de los 3 artículos de cada estudiante.
+1. Cuando el sitio este terminado, desplegarlo en _GitHub Pages_.
 1. Cada estudiante deberá subir sus propios cambios, se revisará el historial de _git_ para verificar esta parte.
 
 Para trabajar en equipo los estudiantes pueden decidir trabajar, mediante _Pull Requests_ o concediendo permisos de colaboradores entre sí.
 
 Cómo la práctica es en equipo, sólo se entrega un repositorio por todo el grupo.
+
+Esta práctica **vale por 2**.
 
 En la tarea se agrega el enlace del repositorio en _GitHub_ y del sitio desplegado en _GitHub Pages_.
 
