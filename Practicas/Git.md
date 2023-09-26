@@ -306,7 +306,7 @@ Aquí te dejo algunos _GitHub Profiles_ que puedes tomar de inspiración para el
 - [https://github.com/m0nica](https://github.com/m0nica)
 - [https://github.com/muhammedh-shadir](https://github.com/muhammedh-shadir)
 - [https://github.com/carlosazaustre](https://github.com/carlosazaustre)
-- [https://github.com/midudev]https://github.com/midudev()
+- [https://github.com/midudev](https://github.com/midudev)
 - [https://github.com/jonmircha](https://github.com/jonmircha)
 
 En la tarea agrega:
