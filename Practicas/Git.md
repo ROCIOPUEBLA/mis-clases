@@ -288,7 +288,35 @@ En la tarea sólo agrega el enlace de tu repositorio _**forkeado**_ en _GitHub_.
 
 ---
 
-## Práctica 13 🤓 Aquí voy
+## Práctica 13
+
+Para reforzar lo aprendido sobre la creación del _GitHub Profile README_ y el despliegue de sitios estáticos en _GitHub Pages_, haz lo siguiente:
+
+1. Crea un nuevo repositorio para tu _GitHub Profile_, recuerda que el nombre del repositorio tiene que ser igual al nombre de tu cuenta de _GitHub_, si no, no funcionará.
+1. Crea un archivo _README.md_ y llénalo con la información pertinente, para formar tu perfil técnico como desarrollador en _GitHub_, recuerda que puedes usar cualquier elemento disponible en _Markdown_ para crear el contenido: listas, tablas, imágenes, emojis, encabezados, divisiones, párrafos, enlaces, fragmentos de código, etc.
+1. Crea en algún programa o aplicación de diseño (como _Canva_, _Figma_, _PhotoShop_, etc.) una cabecera para tu perfil.
+1. En esta práctica se evaluará la creatividad y el diseño de tu perfil.
+1. Una vez que hayas terminado tu _GitHub Profile_ en el _README.md_, ahora lo desplegarás en _GitHub Pages_.
+1. Crea una carpeta dentro de tu repositorio que se llame _**docs**_, dentro de dicha carpeta crea un documento _**index.html**_, y en el, pasa el contenido de tu _GitHub Profile_ a formato _HTML_.
+1. Una vez que termines sube tus cambios a la rama _main_ de tu repositorio, y configura los _**settings**_ para que la carpeta _docs_ se despliegue en el servicio de _GitHub Pages_.
+
+Aquí te dejo algunos _GitHub Profiles_ que puedes tomar de inspiración para el diseño y contenido del tuyo:
+
+- [https://github.com/carmenansio](https://github.com/carmenansio)
+- [https://github.com/m0nica](https://github.com/m0nica)
+- [https://github.com/muhammedh-shadir](https://github.com/muhammedh-shadir)
+- [https://github.com/carlosazaustre](https://github.com/carlosazaustre)
+- [https://github.com/midudev]https://github.com/midudev()
+- [https://github.com/jonmircha](https://github.com/jonmircha)
+
+En la tarea agrega:
+
+1. El enlace de tu repositorio en _GitHub_.
+1. El enlace de tu repositorio desplegado _GitHub Pages_.
+
+---
+
+## Práctica 14 🤓 Aquí voy
 
 Con lo visto en clase sobre _Node.js_ y [_11ty_](https://www.11ty.dev/) crea una carpeta donde crees un micrositio con la siguientes características:
 
@@ -307,7 +335,7 @@ En la tarea sólo agrega el enlace de tu repositorio en _GitHub_.
 
 ---
 
-## Práctica 14
+## Práctica 15
 
 Con la carpeta y el repositorio de la práctica anterior, realiza el despliegue de tu micrositio en formato _HTML_ en la rama _**gh-pages**_ de _GitHub Pages_.
 
@@ -315,7 +343,7 @@ En la tarea agrega el enlace de tu repositorio en _GitHub_ y del sitio desplegad
 
 ---
 
-## Práctica 15
+## Práctica 16
 
 Los estudiantes en equipo deberán entregar un micrositio hecho en [_11ty_](https://www.11ty.dev/) con las siguientes características:
 
