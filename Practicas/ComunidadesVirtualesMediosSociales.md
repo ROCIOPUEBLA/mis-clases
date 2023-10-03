@@ -102,3 +102,64 @@ En equipo agreguen un documento o presentación con la lluvia de ideas que han g
 Cada equipo tendrá de 5 a 10 minutos para exponer frente al grupo sus ideas y recibir retroalimentación por parte de los profesores.
 
 ---
+
+## Actividad 6: Avance Evento _Online - Offline_
+
+En equipo agreguen un documento o presentación con las correcciones y avances para el evento _online - offline_ que organizarán para su comunidad a finales del semestre.
+
+Cada equipo tendrá de 5 a 10 minutos para exponer frente al grupo sus ideas y recibir retroalimentación por parte de los profesores.
+
+**Para este avance ya deben tener definido la fecha, hora y lugar dentro de la Universidad, donde se llevará acabo el evento.**
+
+---
+
+## Entrega 5: Artículos de Blog
+
+Cada equipo deberá entregar la redacción de 5 artículos para el blog de su sitio, dichos artículos tendrán que estar relacionados con los contenidos que están publicando en sus redes sociales.
+
+Cada artículo deberá tener un mínimo de 400 palabras y deberá tener al menos 2 elementos multimedia (imágenes, audio, video, etc.) que complemente la redacción.
+
+En la tarea agreguen los enlaces de cada uno de sus artículos.
+
+---
+
+## Entrega 6: Calendario Editorial
+
+Deberán entregar su calendario editorial con:
+
+1. La hoja del primer mes con los enlaces de las publicaciones hechas en las primeras 4 semanas.
+1. La hoja del segundo mes con los enlaces de las publicaciones hechas en las 4 semana de este mes.
+1. Una tercer hoja con la planeación del contenido del tercer mes (siguientes 4 semanas).
+
+Cumplir con el contenido del segundo mes vale 30 puntos. La planeación del tercer mes vale 10 puntos.
+
+---
+
+## Entrega 7: Planeación de Evento _Online - Offline_
+
+En equipo agreguen la presentación final de la planeación de su evento en formato _PDF_.
+
+Esta deberá incluir los siguientes aspectos:
+
+1. Temática y objetivos del evento.
+1. Fecha, hora, lugar físico, plataformas digitales y duración del evento.
+1. Necesidades físicas y técnicas para el ejecutar evento. Es responsabilidad de cada equipo solicitar con tiempo a la Universidad los espacios donde se realizará el evento.
+1. Programa de actividades.
+1. Breve biografía del o los _influencer(s)_ invitados.
+1. Estrategías y dinámicas para la parte presencial (_offline_) del evento.
+1. Estrategías y dinámicas para la parte digital (_online_) del evento.
+1. Estrategías de publicidad y promoción del evento. Deberán mostrar al menos 3 recursos multimedia (imágenes, audios o videos) para promocionar el evento en sus diferentes redes sociales.
+
+Cada equipo tendrá de 10 a 15 minutos para exponer frente al grupo su propuesta y recibir retroalimentación por parte de los profesores.
+
+---
+
+## Entrega 8: Artículos de Blog
+
+Cada equipo deberá entregar la redacción de 5 artículos para el blog de su sitio, dichos artículos tendrán que estar relacionados con los contenidos que están publicando en sus redes sociales.
+
+Cada artículo deberá tener un mínimo de 400 palabras y deberá tener al menos 2 elementos multimedia (imágenes, audio, video, etc.) que complemente la redacción.
+
+En la tarea agreguen los enlaces de cada uno de sus artículos.
+
+---
