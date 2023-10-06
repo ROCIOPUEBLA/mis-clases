@@ -44,6 +44,7 @@ Diferentes enlaces, conceptos y notas que uso en mis clases, estan ordenados de 
 ### _Crypto_
 
 - [Documental _Cryptopía_](https://www.youtube.com/watch?v=P6vYyqHG54Y)
+- [Glosario _Web3_](https://blog.bitso.com/es-mx/criptomonedas-mx/glosario-web3)
 
 [🔼 Regresar](#notas)
 

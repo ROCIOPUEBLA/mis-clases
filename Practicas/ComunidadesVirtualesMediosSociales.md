@@ -163,3 +163,13 @@ Cada artículo deberá tener un mínimo de 400 palabras y deberá tener al menos
 En la tarea agreguen los enlaces de cada uno de sus artículos.
 
 ---
+
+## Calendario de Eventos
+
+| **Fecha**        | **Hora** | **Lugar** | **Equipo** |
+| ---------------- | -------- | --------- | ---------- |
+| Martes 07-Nov-23 |          |           |            |
+| Jueves 09-Nov-23 |          |           |            |
+| Martes 14-Nov-23 |          |           |            |
+| Jueves 16-Nov-23 |          |           |            |
+| Martes 21-Nov-23 |          |           |            |
