@@ -379,6 +379,52 @@ En la tarea sólo agrega el enlace de tu repositorio de _GitHub_.
 
 ### Práctica 1
 
+Con lo aprendido sobre la introducción al _DOM_, haz un documento _HTML_ dinámico, con las siguientes características:
+
+1. Crea un documento _HTML_ con etiquetas vacias en el _body_ y carga dinámicamente con _JavaScript_ tu información personal:
+   - Tu nombre en una etiqueta _h1_.
+   - Tu foto en una etiqueta _img_ (foto real, no memé, no avatar, no imagen random).
+   - Una breve biografía en una etiqueta _p_.
+   - Tus pasatiempos en una etiqueta _ol_.
+   - Tu información de contacto (correo, redes, sitios, etc.) en una etiqueta _ul_.
+1. Aplica 3 estilos _CSS_ dinámicamente con _JavaScript_ a cada elemento _HTML_ de tu documento.
+
+Crea un repositorio en _GitHub_ para esta práctica, sube el código fuente a la rama _main_ y despliega tu proyecto en la rama _gh-pages_ para poder visualizarlo como un sitio _web_.
+
+En el _README.md_ de tu repositorio escribe:
+
+- Tu nombre.
+- Número de práctica.
+- Un enlace con la _url_ de tu sitio desplegado en _GitHub Pages_.
+- Un enlace al archivo principal _JavaScript_ donde esta tu código fuente.
+
+En la tarea sólo agrega el enlace de tu repositorio de _GitHub_.
+
+### Práctica 2
+
+Con lo aprendido sobre los eventos, haz lo siguiente:
+
+1. Trabajarás con el documento _HTML_ de la práctica 1.
+1. Asigna 2 eventos que modifiquen algo en la _UI_ de tu documento.
+1. Aplica 1 evento a varios elementos _HTML_ con la técnica de la delegación de eventos.
+
+Crea un repositorio en _GitHub_ para esta práctica, sube el código fuente a la rama _main_ y despliega tu proyecto en la rama _gh-pages_ para poder visualizarlo como un sitio _web_.
+
+En el _README.md_ de tu repositorio escribe:
+
+- Tu nombre.
+- Número de práctica.
+- Un enlace con la _url_ de tu sitio desplegado en _GitHub Pages_.
+- Un enlace al archivo principal _JavaScript_ donde esta tu código fuente.
+
+En la tarea sólo agrega el enlace de tu repositorio de _GitHub_.
+
+### Práctica 3
+
+### Práctica 4
+
+### Práctica 5
+
 ---
 
 ## Proyecto Final
