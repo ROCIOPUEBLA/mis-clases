@@ -25,9 +25,11 @@
 
 Para repasar los conceptos aprendidos anteriormente sobre diseño y desarrollo web, el estudiante hará lo siguiente:
 
-Creará una nuevo repositorio para esta práctica y:
+Creará un nuevo repositorio para esta práctica y:
 
-El estudiante redactará en formato _web_, el contenido (_HTML_) y la presentación (_CSS_) de un artículo de investigación. Además programará 2 interacciones justificables a la _UI_ mediante _JavaScript_ y también cargará asíncronamente información mediante _AJAX_ y _JSON_.
+- El estudiante redactará en formato _web_, el contenido (_HTML_) y la presentación (_CSS_) de un artículo de investigación.
+- Además programará 2 interacciones justificables a la _UI_ mediante _JavaScript_ y
+- También cargará asíncronamente información mediante _AJAX_ y _JSON_.
 
 La temática de tu artículo es libre. Se evaluará la redacción y ortografía del artículo.
 
