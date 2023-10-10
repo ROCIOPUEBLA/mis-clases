@@ -144,8 +144,6 @@ En la tarea sólo agrega el enlace de tu repositorio de _GitHub_.
 
 ---
 
-### Práctica 5
+## Proyecto Final
 
 ---
-
-## Proyecto Final
