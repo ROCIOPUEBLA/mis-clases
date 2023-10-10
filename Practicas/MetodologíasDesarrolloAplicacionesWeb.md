@@ -194,7 +194,7 @@ Para poner en práctica lo aprendido sobre [_Bootstrap_](https://getbootstrap.co
 
 Toma como referencia el contenido de la práctica del artículo _web_ que hiciste anteriormente y ahora mejora su interfaz visual usando los componentes y las herramientas que _Bootstrap_ pone a tu disposición.
 
-Crea un repositorio en _GitHub_ para esta práctica, sube el código fuente a la rama _main_ y despliega tu proyecto en la rama _gh-pages_ para poder visualizarlo como un sitio _web_.
+Crea un repositorio en _GitHub_ para esta práctica y despliega el proyecto en _GitHub Pages_.
 
 En el _README.md_ de tu repositorio escribe:
 
@@ -214,7 +214,7 @@ Para poner en práctica lo aprendido sobre retículas, maquetación y _Responsiv
 
 Elige un sitio _web_ y analiza su retícula, diseñala **responsivamente** como se vió en clase.
 
-Crea un repositorio en _GitHub_ para esta práctica, sube el código fuente a la rama _main_ y despliega tu proyecto en la rama _gh-pages_ para poder visualizarlo como un sitio _web_.
+Crea un repositorio en _GitHub_ para esta práctica y despliega el proyecto en _GitHub Pages_.
 
 En el _README.md_ de tu repositorio escribe:
 
@@ -239,9 +239,11 @@ Tu sitio deberá tener:
 
 - Al menos 4 secciones de contenido identificables.
 - Ser responsivo (versión _mobile_ y _desktop_).
-- A parte de usar los componentes y utilidades de _Bootstrap_, deberás personalizar tu sitio para que se vea personalizado, por lo que deberás tener una hoja de estilos propia.
+- A parte de usar los componentes y utilidades de _Bootstrap_, deberás personalizar los estilos de tu sitio, por lo que deberás tener una hoja _CSS_ propia.
 
-Crea un repositorio en _GitHub_ para esta práctica, sube el código fuente a la rama _main_ y despliega tu proyecto en la rama _gh-pages_ para poder visualizarlo como un sitio _web_.
+Para esta práctica parte importante de la evaluación será: la estética y creatividad con la que diseñes tu portafolio.
+
+Crea un repositorio en _GitHub_ para esta práctica y despliega el proyecto en _GitHub Pages_.
 
 En el _README.md_ de tu repositorio escribe:
 
@@ -273,7 +275,7 @@ Cada libro deberá tener un método que al ejecutarlo en la consola, imprima la 
 
 Dentro de tu objeto incluye todos los tipos de datos vistos hasta el momento (_strings_, _numbers_, _booleans_, _functions_, _arrays_ y _objects_).
 
-Crea un repositorio en _GitHub_ para esta práctica, sube el código fuente a la rama _main_ y despliega tu proyecto en la rama _gh-pages_ para poder visualizarlo como un sitio _web_.
+Crea un repositorio en _GitHub_ para esta práctica y despliega el proyecto en _GitHub Pages_.
 
 En el _README.md_ de tu repositorio escribe:
 
@@ -294,7 +296,7 @@ Vamos a calcular el perímetro y área de 3 Polígonos regulares: Tríangulo, Cu
 
 Para ello tendrás que crear una clase padre llamada Polígono y 3 clases hijas una por cada figura solicitada.
 
-Crea un repositorio en _GitHub_ para esta práctica, sube el código fuente a la rama _main_ y despliega tu proyecto en la rama _gh-pages_ para poder visualizarlo como un sitio _web_.
+Crea un repositorio en _GitHub_ para esta práctica y despliega el proyecto en _GitHub Pages_.
 
 En el _README.md_ de tu repositorio escribe:
 
@@ -311,7 +313,7 @@ En la tarea sólo agrega el enlace de tu repositorio de _GitHub_.
 
 Con lo aprendido sobre condicionales, operadores, el objeto _Date_ y los temporizadores, crea una función que imprima en la consola del navegador un reloj digital que muestre horas, minutos, segundos y este en formato am/pm.
 
-Crea un repositorio en _GitHub_ para esta práctica, sube el código fuente a la rama _main_ y despliega tu proyecto en la rama _gh-pages_ para poder visualizarlo como un sitio _web_.
+Crea un repositorio en _GitHub_ para esta práctica y despliega el proyecto en _GitHub Pages_.
 
 En el _README.md_ de tu repositorio escribe:
 
@@ -339,7 +341,7 @@ Considera lo siguiente, para obtener el factorial:
 !3 = 3 x 2 x 1 = 6
 ```
 
-Crea un repositorio en _GitHub_ para esta práctica, sube el código fuente a la rama _main_ y despliega tu proyecto en la rama _gh-pages_ para poder visualizarlo como un sitio _web_.
+Crea un repositorio en _GitHub_ para esta práctica y despliega el proyecto en _GitHub Pages_.
 
 En el _README.md_ de tu repositorio escribe:
 
@@ -362,7 +364,7 @@ Con lo aprendido sobre Módulos, convierte a módulos los siguientes ejercicios:
 
 Adicionalmente ten un archivo _js_ principal donde importes y ejecutes los módulos que previamente haz creado.
 
-Crea un repositorio en _GitHub_ para esta práctica, sube el código fuente a la rama _main_ y despliega tu proyecto en la rama _gh-pages_ para poder visualizarlo como un sitio _web_.
+Crea un repositorio en _GitHub_ para esta práctica y despliega el proyecto en _GitHub Pages_.
 
 En el _README.md_ de tu repositorio escribe:
 
@@ -389,7 +391,7 @@ Con lo aprendido sobre la introducción al _DOM_, haz un documento _HTML_ dinám
    - Tu información de contacto (correo, redes, sitios, etc.) en una etiqueta _ul_.
 1. Aplica 3 estilos _CSS_ dinámicamente con _JavaScript_ a cada elemento _HTML_ de tu documento.
 
-Crea un repositorio en _GitHub_ para esta práctica, sube el código fuente a la rama _main_ y despliega tu proyecto en la rama _gh-pages_ para poder visualizarlo como un sitio _web_.
+Crea un repositorio en _GitHub_ para esta práctica y despliega el proyecto en _GitHub Pages_.
 
 En el _README.md_ de tu repositorio escribe:
 
@@ -408,7 +410,7 @@ Con lo aprendido sobre los eventos, haz lo siguiente:
 1. Asigna 2 eventos que modifiquen algo en la _UI_ de tu documento.
 1. Aplica 1 evento a varios elementos _HTML_ con la técnica de la delegación de eventos.
 
-Crea un repositorio en _GitHub_ para esta práctica, sube el código fuente a la rama _main_ y despliega tu proyecto en la rama _gh-pages_ para poder visualizarlo como un sitio _web_.
+Crea un repositorio en _GitHub_ para esta práctica y despliega el proyecto en _GitHub Pages_.
 
 En el _README.md_ de tu repositorio escribe:
 
