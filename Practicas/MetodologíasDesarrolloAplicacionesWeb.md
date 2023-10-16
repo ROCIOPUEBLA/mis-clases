@@ -423,10 +423,140 @@ En la tarea sólo agrega el enlace de tu repositorio de _GitHub_.
 
 ### Práctica 3
 
+Con lo visto en clase y tomando como referencia los ejercicios hechos con el profesor.
+
+Crea un módulo con la funcionalidad del _Dark Theme_.
+
+Deberás programar un botón que al darle _click_ cambié la interfaz de modo claro a obscuro y viceversa. También debe recordar la última elección del usuario al recargar el navegador.
+
+Para este ejercicio considera investigar lo siguiente:
+
+- El método _**DOMContentLoaded**_ del objeto _**document**_.
+- La _API_ de _**localStorage**_.
+
+Crea un repositorio en _GitHub_ para esta práctica y despliega el proyecto en _GitHub Pages_.
+
+En el _README.md_ de tu repositorio escribe:
+
+- Tu nombre.
+- Número de práctica.
+- Un enlace con la _url_ de tu sitio desplegado en _GitHub Pages_.
+- Un enlace al archivo principal _JavaScript_ donde esta tu código fuente.
+
+En la tarea sólo agrega el enlace de tu repositorio de _GitHub_.
+
 ### Práctica 4
 
+Con lo visto en clase y tomando como referencia los ejercicios hechos con el profesor.
+
+Crea un módulo con la funcionalidad de un reloj digital en formato de 12 horas (am/pm) que sea visible en el documento _HTML_.
+
+Además agrega 2 botones a la interfaz. El primero deberá iniciar el reloj, el segundo deberá detener el reloj.
+
+Considera lo siguiente:
+
+- El reloj debe visualizarse, en el momento en que el usuario de _click_ al primer botón.
+- Mientras el reloj esté activo, el primer botón debe estar inhabilitado.
+- Al dar _click_ al segundo botón, el primer botón debe habilitarse y el reloj debe detenerse.
+
+Para este ejercicio considera investigar lo siguiente:
+
+- Métodos de temporizadores: _**setInterval**_ y _**clearInterval**_.
+- El objeto _**Date**_.
+
+Crea un repositorio en _GitHub_ para esta práctica y despliega el proyecto en _GitHub Pages_.
+
+En el _README.md_ de tu repositorio escribe:
+
+- Tu nombre.
+- Número de práctica.
+- Un enlace con la _url_ de tu sitio desplegado en _GitHub Pages_.
+- Un enlace al archivo principal _JavaScript_ donde esta tu código fuente.
+
+En la tarea sólo agrega el enlace de tu repositorio de _GitHub_.
+
 ### Práctica 5
+
+Con lo visto en clase y tomando como referencia los ejercicios hechos con el profesor.
+
+Crea un formulario con validaciones.
+
+Considera lo siguiente, tu formulario deberá contener:
+
+- Al menos 4 elementos de formulario.
+- Cada elemento debera tener al menos 1 validación.
+- Tus 4 validaciones mínimas deberán ser diferentes a las vistas en clase.
+- Al menos deberás usar 2 expresiones regulares en tus validaciones y estás deben ser diferentes a las vistas en clase.
+- Cada validación debe tener su mensaje de error, puedes usar la misma programación vista en clase.
+- Tu formulario debe simular el envío de datos, puedes usar la misma programación vista en clase.
+
+Crea un repositorio en _GitHub_ para esta práctica y despliega el proyecto en _GitHub Pages_.
+
+En el _README.md_ de tu repositorio escribe:
+
+- Tu nombre.
+- Número de práctica.
+- Un enlace con la _url_ de tu sitio desplegado en _GitHub Pages_.
+- Un enlace al archivo principal _JavaScript_ donde esta tu código fuente.
+
+En la tarea sólo agrega el enlace de tu repositorio de _GitHub_.
+
+### Práctica 6
+
+Con lo visto en clase y tomando como referencia los ejercicios hechos con el profesor.
+
+Crea un documento _HTML_, donde puedas cargar dinámicamente mediante _JavaScript_ y _AJAX_, la información de un archivo _JSON_, que tenga los siguentes datos de cada una de las materias que cursas, este semestre:
+
+- Nombre de la materia
+- Nombre del docente y
+- Una breve descripción de lo que estás aprendiendo en ella.
+
+Crea un repositorio en _GitHub_ para esta práctica y despliega el proyecto en _GitHub Pages_.
+
+En el _README.md_ de tu repositorio escribe:
+
+- Tu nombre.
+- Número de práctica.
+- Un enlace con la _url_ de tu sitio desplegado en _GitHub Pages_.
+- Un enlace al archivo principal _JavaScript_ donde esta tu código fuente.
+
+En la tarea sólo agrega el enlace de tu repositorio de _GitHub_.
+
+### Práctica 7
+
+Con lo visto en clase y tomando como referencia los ejercicios hechos con el profesor.
+
+Elige alguna _API_ de alguno de estos sitios:
+
+- [https://publicapi.dev/](https://publicapi.dev/)
+- [https://github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)
+
+Que no se haya visto en clase e interactua con ella.
+
+Crea un documento _HTML_, donde puedas cargar dinámicamente mediante _JavaScript_ y _AJAX_, la información de la _API_.
+
+Tu ejercicio deberá cumplir con 4 requisitos:
+
+1. Tu programación estructurada en módulos.
+1. Modificación dinámica del _DOM_.
+1. Asignación de eventos.
+1. Carga dinámica de datos de la _API_ que elijas en el _DOM_ de tu documento.
+
+Esta práctica **vale por 2**.
+
+Crea un repositorio en _GitHub_ para esta práctica y despliega el proyecto en _GitHub Pages_.
+
+En el _README.md_ de tu repositorio escribe:
+
+- Tu nombre.
+- Número de práctica.
+- Un enlace con la _url_ de tu sitio desplegado en _GitHub Pages_.
+- Un enlace al archivo principal _JavaScript_ donde esta tu código fuente.
+
+En la tarea sólo agrega el enlace de tu repositorio de _GitHub_.
 
 ---
 
 ## Proyecto Final
+
+---

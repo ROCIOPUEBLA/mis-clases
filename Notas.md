@@ -11,7 +11,9 @@ Diferentes enlaces, conceptos y notas que uso en mis clases, estan ordenados de 
   - [Iconos](#iconos).
   - [Imágenes](#imágenes).
   - [_No Code_](#no-code).
-  - [Sitios Muestra](#sitios-muestra).
+  - [Sitios _CV_ y _One Page_](#sitios-cv-y-one-page).
+  - [Sitios _Landing Page_](#sitios-landing-page).
+  - [Sitios _Multi Page_](#sitios-multi-page).
   - [Sitios Premiados](#sitios-premiados).
   - [Sitios Referencia](#sitios-referencia).
   - [Videojuegos](#videojuegos).
@@ -121,21 +123,30 @@ Diferentes enlaces, conceptos y notas que uso en mis clases, estan ordenados de 
 
 [🔼 Regresar](#notas)
 
-### Sitios Muestra
+### Sitios _CV_ y _One Page_
 
-- https://www.sofiasalud.com/
-- https://bitso.com/
-- https://www.plerk.io/
-- https://mx.tapni.co/
-- https://www.flat.mx/
-- https://gbm.plus/
-- https://uxcel.com/
-- https://usabilityhub.com/
-- https://surfshark.com/es/
-- https://essentia.one/
-- http://rileysainz.com/ (OP)
+- http://rileysainz.com/
 - https://tonsky.me/
 - https://john-doe.neocities.org/ (#)
+
+[🔼 Regresar](#notas)
+
+### Sitios _Landing Page_
+
+- https://en99palabras.myshopify.com/
+- https://shop.app/
+- https://bearsandguts.com/
+- https://essentia.one/
+
+[🔼 Regresar](#notas)
+
+### Sitios _Multi Page_
+
+- https://sofiasalud.com/
+- https://bitso.com/
+- https://flat.mx/
+- https://gbm.plus/
+- https://uxcel.com/
 - https://lacasadetono.mx/menu/
 
 [🔼 Regresar](#notas)
