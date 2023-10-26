@@ -1,0 +1,39 @@
+*   733d18a Merge branch 'main' of https://github.com/ROCIOPUEBLA/mis-clases
+|\  
+| *   c67e81d Merge branch 'main' of https://github.com/ROCIOPUEBLA/mis-clases
+| |\  
+* | \   5312d63 haciendo merge de pagina html a main mas cambios en estilos.css
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| *   ac3f42d haciendo merge de pagina html a main
+| |\  
+* | \   4342d90 haciendo merge de pagina html a main
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * 1a0b02c agregado contenido a html
+* | 59f891f  cree el html en rama main
+|/  
+* a61b2b5 modificado el gitignore
+* 36298f4 Practicas parcial 3 Desarrollo Web
+* e0511e6 Prácticas 3er parcial
+* 0d6e571 Prácticas 3er parcial
+* f0239b2 Prácticas 3er parcial
+* 17e958d Prácticas parcial 3 Desarrollo web
+* b4d5334 Cambios CVMS
+* a4ac01a Prácticas Comunidades
+* b89d087 Terminando prácticas de git
+* a391e7e Practica 13 Git
+* a6f6860 Practica 13 Git
+* 4662ef8 prácticas 2parcial desarrollo web
+* e3f078f Practica 3 Web
+* ee5bc99 Prácticas Amerike
+* d49469e Prácticas Amerike
+* f790633 Cambios Interfaces
+* 36e42cc Cambios
+* d7ac9f4 Cambios
+* 62582f2 Cambios
+* c2c71d1 first commit
