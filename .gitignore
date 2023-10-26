@@ -3,3 +3,5 @@ Assets
 Documentos
 Libros
 Proyectos
+# aca voy a ignorara cosas para cargar a github
+*.log
