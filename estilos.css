@@ -2,5 +2,9 @@ a:hover{
     color:aquamarine;
     text-align:rgb(29, 121, 116);
     background-color: blue ;
-    
+
+}
+a{color:aliceblue;
+    padding-left: 10px;
+    padding-right: 30px;
 }

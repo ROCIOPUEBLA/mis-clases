@@ -1,0 +1,152 @@
+commit c67e81d02d1049413eb99b13adaf20c84a6889ac
+Merge: 4342d90 ac3f42d
+Author: ROCIO <rocio_jcc@hotmail.com>
+Date:   Thu Oct 26 15:15:52 2023 +0200
+
+    Merge branch 'main' of https://github.com/ROCIOPUEBLA/mis-clases
+
+commit 4342d9091de1285034d7e8d5cf61cb9e5ae739b0
+Merge: 59f891f 1a0b02c
+Author: ROCIO <rocio_jcc@hotmail.com>
+Date:   Thu Oct 26 14:24:15 2023 +0200
+
+    haciendo merge de pagina html a main
+
+commit ac3f42dc9038159ae6f7f17fabb0f346bc57feca
+Merge: 59f891f 1a0b02c
+Author: ROCIO <rocio_jcc@hotmail.com>
+Date:   Thu Oct 26 14:24:15 2023 +0200
+
+    haciendo merge de pagina html a main
+
+commit 59f891fe4bde39ddb599b1a3b8933084b72d27d5
+Author: ROCIO <rocio_jcc@hotmail.com>
+Date:   Thu Oct 26 14:18:55 2023 +0200
+
+     cree el html en rama main
+
+commit 1a0b02c4aaf8dde1a5a8a331189ca75a75a4e338
+Author: ROCIO <rocio_jcc@hotmail.com>
+Date:   Thu Oct 26 14:16:27 2023 +0200
+
+    agregado contenido a html
+
+commit a61b2b537aba44e29ae810212d9811e6f76bc0a8
+Author: ROCIO <rocio_jcc@hotmail.com>
+Date:   Thu Oct 26 13:34:00 2023 +0200
+
+    modificado el gitignore
+
+commit 36298f4f8e96cc162260accde7d49800db004c31
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Sun Oct 15 18:13:11 2023 -0600
+
+    Practicas parcial 3 Desarrollo Web
+
+commit e0511e61682345fb7e6c5d2ac6a12da8285d156c
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Mon Oct 9 22:26:29 2023 -0600
+
+    Prácticas 3er parcial
+
+commit 0d6e5716f00f606e4d913b101126fe326671537f
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Mon Oct 9 18:26:42 2023 -0600
+
+    Prácticas 3er parcial
+
+commit f0239b2f9710464861982653c66c31041d8769e9
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Mon Oct 9 18:16:17 2023 -0600
+
+    Prácticas 3er parcial
+
+commit 17e958dd670ec43a4fde98115b6824e2b8d2a917
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Mon Oct 9 11:50:11 2023 -0600
+
+    Prácticas parcial 3 Desarrollo web
+
+commit b4d5334272215dc89c37fb18cf5ab9dfdf27a8fa
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Thu Oct 5 21:16:17 2023 -0600
+
+    Cambios CVMS
+
+commit a4ac01a9e7c4dcbc5766d88ed7df71a4b10fe76e
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Tue Oct 3 17:31:29 2023 -0600
+
+    Prácticas Comunidades
+
+commit b89d0873b9dc17efe9341d020304b5397e2f18b6
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Tue Sep 26 17:46:49 2023 -0600
+
+    Terminando prácticas de git
+
+commit a391e7e972e5addfd6da39782ef50d967fc24292
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Mon Sep 25 20:29:13 2023 -0600
+
+    Practica 13 Git
+
+commit a6f686039d7f65c693b09ae74571a80ab50f6263
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Mon Sep 25 20:26:54 2023 -0600
+
+    Practica 13 Git
+
+commit 4662ef8a41c231c308c61e4a3d73f1761eb1b2b2
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Fri Sep 22 10:20:33 2023 -0600
+
+    prácticas 2parcial desarrollo web
+
+commit e3f078fb7308db79423318f98706d9fc68a21962
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Mon Sep 18 15:56:52 2023 -0600
+
+    Practica 3 Web
+
+commit ee5bc9952d8a5097153a4f76b480e4fadfb9519f
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Thu Sep 7 13:15:29 2023 -0600
+
+    Prácticas Amerike
+
+commit d49469e8a1a87c6b22700551fb474a90cfd69fdd
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Thu Sep 7 12:27:23 2023 -0600
+
+    Prácticas Amerike
+
+commit f790633bd42402971468313a1f3ec1765782a539
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Fri Aug 25 23:24:14 2023 -0600
+
+    Cambios Interfaces
+
+commit 36e42cca524290136d160f6302ab3458c0524065
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Fri Aug 25 18:30:08 2023 -0600
+
+    Cambios
+
+commit d7ac9f43513665980966effc93087ee03ce31ab1
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Fri Aug 25 18:23:58 2023 -0600
+
+    Cambios
+
+commit 62582f2f7bf7b8ad6814611fdc2a1b220b0ad1eb
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Mon Aug 14 15:44:09 2023 -0600
+
+    Cambios
+
+commit c2c71d10f2e3dc82779a48e088cc020185b3de26
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Thu Jul 20 11:54:27 2023 -0600
+
+    first commit
