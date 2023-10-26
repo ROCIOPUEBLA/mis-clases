@@ -1,3 +1,7 @@
+Este es el grafico de las ramas y como interacuan entre ellas
+Solo en color blanco y negro
+Tercera frase agregada
+
 *   733d18a Merge branch 'main' of https://github.com/ROCIOPUEBLA/mis-clases
 |\  
 | *   c67e81d Merge branch 'main' of https://github.com/ROCIOPUEBLA/mis-clases
